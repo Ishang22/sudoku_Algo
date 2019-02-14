@@ -1,0 +1,19 @@
+{
+  "name": "sudoku_validate",
+  "version": "1.0.0",
+  "description": "algo_for_sudoku_validate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishang22/sudoku_Algo.git"
+  },
+  "author": "Ishan Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ishang22/sudoku_Algo/issues"
+  },
+  "homepage": "https://github.com/Ishang22/sudoku_Algo#readme"
+}
