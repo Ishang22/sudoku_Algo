@@ -39,11 +39,11 @@ module.exports = {
             if(map.indexOf(array[i]) == -1){
                 map.push(array[i]);
             } else {
-                return 0;
+                return false;
             }
         }
 
-        return 1;
+        return true;
 
     }
 };
